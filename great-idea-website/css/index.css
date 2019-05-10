@@ -82,6 +82,10 @@ h1, h2, h3, h4, h5 {
 	padding: 25px;
 }
 
+nav a:hover {
+	color: white; 
+}
+
 nav {
 	position: fixed;
 	display: inline-block;
@@ -93,6 +97,19 @@ nav {
 nav .logo {
 	display: inline-block;
 	padding-left: 30px; 
+}
+
+nav .logo a {
+	padding: 0;
+	text-decoration: none;
+}
+
+#contact {
+	color: rgb(145, 122, 82);
+}
+
+#contact:hover {
+	color: white; 
 }
 
 header {
@@ -212,3 +229,68 @@ footer {
 	font-size: 25px;
 	line-height: 2;
 }
+
+
+/* Contact Page */
+
+header.contact {
+	border-top: 0px;
+	border-bottom: 0;
+}
+
+header nav {
+	position: static;
+}
+
+.page-box {
+		display: block;
+		margin: auto;
+		box-sizing: border-box;
+		width: 500px;
+		padding-top: 29px;
+		padding-bottom: 50px;
+		font-family: 'Noto Sans KR', sans-serif;
+}
+
+.page-box p {
+	font-family: 'Noto Sans KR', sans-serif;
+	line-height: 1.8;
+}
+
+.page-box.form {
+	padding-top: 50px; 
+	width: 700px;
+}
+
+.contact-methods {
+	display: inline-block;
+	box-sizing: border-box; 
+	margin: 10px;
+	padding: 10px;
+	width: 380px;
+	border-radius: 20px;
+	border: 1px solid black;
+}
+
+.contact-methods p {
+	line-height: 1.8;
+	font-size: 15px;
+}
+
+.contact-methods h2 {
+	text-align: center;
+}
+
+.contact-methods.forum {
+	background-color: rgb(245, 209, 226); 
+}
+.contact-methods.chat {
+	background-color: rgb(209, 245, 219); 
+}
+.contact-methods.email {
+	background-color: rgb(209, 214, 245); 
+}
+.contact-methods.phone {
+	background-color: rgb(245, 209, 209); 
+}
+
