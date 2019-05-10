@@ -7,11 +7,15 @@ Minimal Viable Project Tasks + Stretch Tasks  <br /><br />
 <br /><br />
 
 
-# Links
+# Project Links
 
 <a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/index.html" target=_blank>See this project live?</a>  
 
 <a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/contact.html" target=_blank>Contact Page</a>
+
+# Contact Me
+<a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
+<br /><br />
 
 
 # User Interface Project: Great Idea Web Page
