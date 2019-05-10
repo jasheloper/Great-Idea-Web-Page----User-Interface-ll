@@ -143,6 +143,14 @@ button {
 	font-family: 'Share Tech Mono', monospace;
 	color: #e6f9f9;
 	letter-spacing: 1.3px;
+	animation-duration: 2s;
+	animation-name: introbutton;
+	animation-iteration-count: 30;
+}
+
+@keyframes introbutton {
+	from {background-color: #0f4f4f; }
+	to {background-color: #041313; }
 }
 
 .top-logo {
