@@ -165,7 +165,9 @@ img.middle-img {
 /* End of page */
 contact {
 	display: block;
-	width: 280px;
+	box-sizing: border-box;
+	padding-top: 34px;
+	border-top: 1px solid black;
 	color: #333333;
 }
 

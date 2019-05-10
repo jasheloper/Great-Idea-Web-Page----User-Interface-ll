@@ -1,16 +1,18 @@
 # Final Screenshots
-Project in progress .... 
+<center>Project in progress .... 
 
 
 Minimal Viable Project Tasks + Stretch Tasks 
 
 
-#Links
+# Links
+
 <a href="#" target=_blank>See this project live?</a>
 
 <a href="#" target=_blank>Additional Page 1</a>
 
-<a href="#" target=_blank>Additional Page 1</a>
+<a href="#" target=_blank>Additional Page 1</a></center>
+
 
 
 # User Interface Project: Great Idea Web Page
