@@ -1,3 +1,17 @@
+# Final Screenshots
+Project in progress .... 
+
+
+Minimal Viable Project Tasks + Stretch Tasks 
+
+#Links
+<a href="#" target=_blank>See this project live?</a>
+
+<a href="#" target=_blank>Additional Page 1</a>
+
+<a href="#" target=_blank>Additional Page 1</a>
+
+
 # User Interface Project: Great Idea Web Page
 
 Being able to create a user interface from scratch based on a design file is considered a basic necessity for front end developers. We will be building a single page website using HTML and CSS.
