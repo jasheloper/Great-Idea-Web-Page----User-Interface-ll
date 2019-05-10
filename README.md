@@ -1,11 +1,10 @@
 # Final Screenshots
 
-<center>
-Minimal Viable Project Tasks + Stretch Tasks 
+Minimal Viable Project Tasks + Stretch Tasks  <br /><br />
 
 
-<img style = "border: 1px solid black" src="screenshots/index1.png" alt="Innovation on Demand 1"> <img style = "border: 1px solid black"  src="screenshots/contact1.png" alt="Innovation on Demand 2">
-</center>
+<img src="screenshots/index1.png" alt="Innovation on Demand 1"> <img src="screenshots/contact1.png" alt="Innovation on Demand 2">
+
 
 
 # Links
