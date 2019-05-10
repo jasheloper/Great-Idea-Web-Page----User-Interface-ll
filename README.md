@@ -4,7 +4,7 @@
 Minimal Viable Project Tasks + Stretch Tasks 
 
 
-<img style = "border: 1px solid black" src="screenshots/index.png" alt="Innovation on Demand 1"> <img style = "border: 1px solid black"  src="screenshots/contact.png" alt="Innovation on Demand 2">
+<img style = "border: 1px solid black" src="screenshots/index1.png" alt="Innovation on Demand 1"> <img style = "border: 1px solid black"  src="screenshots/contact1.png" alt="Innovation on Demand 2">
 </center>
 
 
