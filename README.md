@@ -1,12 +1,19 @@
 # Final Screenshots
 
-<center>Minimal Viable Project Tasks + Stretch Tasks 
+<center>
+Minimal Viable Project Tasks + Stretch Tasks 
 
-<img src="screenshots/index.png" alt="Innovation on Demand 1"> <img src="screenshots/contact.png" alt="Innovation on Demand 2">
+
+<img style = "border: 1px solid black" src="screenshots/index.png" alt="Innovation on Demand 1"> 
+<img style = "border: 1px solid black"  src="screenshots/contact.png" alt="Innovation on Demand 2">
+</center>
 
 
-[<a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/index.html" target=_blank>See this project live?</a>]  [<a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/contact.html" target=_blank>Contact Page</a>] </center>
+# Links
 
+<a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/index.html" target=_blank>See this project live?</a>  
+
+<a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/contact.html" target=_blank>Contact Page</a>
 
 
 # User Interface Project: Great Idea Web Page
