@@ -2,7 +2,7 @@
 
 <center>Minimal Viable Project Tasks + Stretch Tasks 
 
-<img style="border: 1px solid black" src="screenshots/demandhome.png" alt="Innovation on Demand 1"> <img style="border: 1px solid black" src="screenshots/demandcontact.png" alt="Innovation on Demand 2">
+<img src="screenshots/index.png" alt="Innovation on Demand 1"> <img src="screenshots/contact.png" alt="Innovation on Demand 2">
 
 
 [<a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/index.html" target=_blank>See this project live?</a>]  [<a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/contact.html" target=_blank>Contact Page</a>] </center>
