@@ -87,7 +87,6 @@ nav a:hover {
 }
 
 nav {
-	position: fixed;
 	display: inline-block;
 	padding: 9px;
 	background-color: #adebeb;
@@ -102,6 +101,10 @@ nav .logo {
 nav .logo a {
 	padding: 0;
 	text-decoration: none;
+}
+
+.home-page {
+	position: fixed;
 }
 
 #contact {
@@ -238,7 +241,7 @@ header.contact {
 	border-bottom: 0;
 }
 
-header nav {
+header nav  {
 	position: static;
 }
 
