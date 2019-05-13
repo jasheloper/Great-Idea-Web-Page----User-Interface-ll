@@ -5,7 +5,6 @@ Student should be able to identify and use all properties in the box model, CSS 
 
 *Completed all Minimal Viable Project Tasks*
 
-<<<<<<< HEAD
 <strong>Stretch Tasks:</strong><br />
 - Added background color to navigation & have it be fixed to the top of the page so that it scrolls with the user.
 - Introduced a new font family.
