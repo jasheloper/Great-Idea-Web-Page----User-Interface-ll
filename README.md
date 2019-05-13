@@ -1,11 +1,21 @@
-# Final Screenshots
+# Project Details
 
-Minimal Viable Project Tasks + Stretch Tasks  <br /><br />
+<b>Objectives:</b><br />
+Student should be able to identify and use all properties in the box model, CSS display properties to build user interface and implement a CSS reset and understand why it’s important for cross browser development.
+
+*Completed all Minimal Viable Project Tasks*
+
+<strong>Stretch Tasks:</strong><br />
+- Added background color to navigation & have it be fixed to the top of the page so that it scrolls with the user.
+- Introduced a new font family.
+- Created a contact page.
+- Added a CSS animation to the button on index.html
 
 
-<img src="screenshots/index1.png" alt="Innovation on Demand 1"> <img src="screenshots/contact1.png" alt="Innovation on Demand 2">
+<img src="screenshots/index1 copy.png" alt="Innovation on Demand 1"> <img src="screenshots/contact1 copy.png" alt="Innovation on Demand 2">
 
 
+<br />
 
 # Links
 
