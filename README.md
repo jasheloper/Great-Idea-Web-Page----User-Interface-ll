@@ -14,8 +14,6 @@ Student should be able to identify and use all properties in the box model, CSS 
 
 <img src="screenshots/index1 copy.png" alt="Innovation on Demand 1"> <img src="screenshots/contact1 copy.png" alt="Innovation on Demand 2">
 
-<br />
-
 # Project Links
 <a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/index.html" target=_blank>See this project live?</a>  
 
