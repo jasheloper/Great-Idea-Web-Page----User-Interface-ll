@@ -24,8 +24,6 @@ Student should be able to identify and use all properties in the box model, CSS 
 
 
 # Project Links
->>>>>>> 9ccd112f443b8307b5be027e3dc754403db53354
-
 <a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/index.html" target=_blank>See this project live?</a>  
 
 <a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/contact.html" target=_blank>Contact Page</a>
