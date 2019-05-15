@@ -12,7 +12,15 @@ Student should be able to identify and use all properties in the box model, CSS 
 - Added a CSS animation to the button on index.html
 
 
-<img src="screenshots/indexscreen.png" alt="Innovation on Demand 1"> <img src="screenshots/contactscreen.png" alt="Innovation on Demand 2">
+<a href="http://jasheletillman.me/Great-Idea-Web-Page----User-Interface-ll/">
+  <img src="screenshots/indexscreen.png" alt="great idea home">
+</a>
+<br />
+
+
+<a href="http://jasheletillman.me/Great-Idea-Web-Page----User-Interface-ll/contact.html">
+  <img src="screenshots/contactscreen.png" alt="great idea contact">
+</a>
 
 
 <br />
