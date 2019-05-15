@@ -5,7 +5,6 @@ Student should be able to identify and use all properties in the box model, CSS 
 
 *Completed all Minimal Viable Project Tasks*
 
-<<<<<<< HEAD
 <strong>Stretch Tasks:</strong><br />
 - Added background color to navigation & have it be fixed to the top of the page so that it scrolls with the user.
 - Introduced a new font family.
@@ -13,19 +12,12 @@ Student should be able to identify and use all properties in the box model, CSS 
 - Added a CSS animation to the button on index.html
 
 
-<img src="screenshots/index1 copy.png" alt="Innovation on Demand 1"> <img src="screenshots/contact1 copy.png" alt="Innovation on Demand 2">
+<img src="screenshots/indexscreen.png" alt="Innovation on Demand 1"> <img src="screenshots/contactscreen.png" alt="Innovation on Demand 2">
 
 
 <br />
 
 # Links
-=======
-<img src="screenshots/index1.png" alt="Innovation on Demand 1"> <img src="screenshots/contact1.png" alt="Innovation on Demand 2">
-<br /><br />
-
-
-# Project Links
->>>>>>> 9ccd112f443b8307b5be027e3dc754403db53354
 
 <a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/index.html" target=_blank>See this project live?</a>  
 
