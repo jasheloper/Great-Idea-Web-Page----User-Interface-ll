@@ -17,24 +17,12 @@ Student should be able to identify and use all properties in the box model, CSS 
 </a>
 <br />
 
-<<<<<<< HEAD
-
 <a href="http://jasheletillman.me/Great-Idea-Web-Page----User-Interface-ll/contact.html">
   <img src="screenshots/contactscreen.png" alt="great idea contact">
 </a>
 
 
 <br />
-
-# Links
-
-<a href="http://jasheletillman.me/Great-Idea-Webpage-User-Interface-ll-Project/index.html" target=_blank>See this project live?</a>  
-=======
-# Project Links
-<a href="http://jasheletillman.me/Great-Idea-Web-Page----User-Interface-ll/" target=_blank>See this project live?</a>  
->>>>>>> 3a5ae8c7c86045e9ade8570a9b19193562096004
-
-<a href="http://jasheletillman.me/Great-Idea-Web-Page----User-Interface-ll/contact.html" target=_blank>Contact Page</a>
 
 # Contact Me
 <a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
