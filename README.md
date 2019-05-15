@@ -14,10 +14,7 @@ Student should be able to identify and use all properties in the box model, CSS 
 
 <a href="http://jasheletillman.me/Great-Idea-Web-Page----User-Interface-ll/">
   <img src="screenshots/indexscreen.png" alt="great idea home">
-</a>
-<br />
-
-<a href="http://jasheletillman.me/Great-Idea-Web-Page----User-Interface-ll/contact.html">
+</a> <a href="http://jasheletillman.me/Great-Idea-Web-Page----User-Interface-ll/contact.html">
   <img src="screenshots/contactscreen.png" alt="great idea contact">
 </a>
 
